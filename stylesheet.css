@@ -1,0 +1,18 @@
+#button{
+    color:red;
+    font-size: 3em;
+}
+
+#input{
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#ol{
+    background-color: magenta;
+    border: 3px dotted white;
+    padding: 3px;
+    color: yellow;
+    font-size: 3em;
+}
+
